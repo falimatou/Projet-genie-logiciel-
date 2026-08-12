@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GEN1423-12] Préparer la présentation</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://madiha1622.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://madiha1622.atlassian.net/browse/GEN1423-3">Documentation</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://madiha1622.atlassian.net/browse/GEN1423-3">GEN1423-3</a>)</span>
+                <h3 class="formtitle"><img src="https://madiha1622.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [GEN1423-12]&nbsp;<a href="https://madiha1622.atlassian.net/browse/GEN1423-12">Préparer la présentation</a>
+            <span class="subText">
+               Création: 04/ao&ucirc;t/26                   &nbsp;Mise à jour: 12/ao&ucirc;t/26
+
+                                                    &nbsp;Résolu: 12/ao&ucirc;t/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>État:</b></td>
+        <td width="80%">Terminé</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projet:</b></td>
+        <td width="80%"><a href="https://madiha1622.atlassian.net/secure/BrowseProject.jspa?id=10002">GEN1423 – Projet de génie logiciel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Composants:</b></td>
+            <td>
+                            Aucun(e)
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versions affectées:</b></td>
+            <td>
+                            Aucun(e)
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versions corrigées:</b></td>
+            <td>
+                            Aucun(e)
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://madiha1622.atlassian.net/browse/GEN1423-3">Documentation</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorité:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Rapporteur:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:71706fc6-46a1-4362-85c2-d5435db6fd01"
+                id="word_reporter_712020:71706fc6-46a1-4362-85c2-d5435db6fd01"
+                href="https://madiha1622.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A71706fc6-46a1-4362-85c2-d5435db6fd01">
+                    Madiha Osman Ahmed, Madiha Osman Ahmed
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Personne assignée:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:33e61ad0-26f8-42bc-8016-9867a494d577"
+                id="word_assignee_712020:33e61ad0-26f8-42bc-8016-9867a494d577"
+                href="https://madiha1622.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A33e61ad0-26f8-42bc-8016-9867a494d577">
+                    Youssouf, Mahamat Issa
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Résolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Terminé
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Étiquettes:</b>
+        </td>
+        <td id="labels-10043-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Aucun(e)
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Estimation restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Non spécifié
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimation restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Non spécifié
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Temps consacré:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Non spécifié
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Temps consacré:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Non spécifié
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Estimation originale:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Non spécifié
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimation originale:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Non spécifié
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+            <tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sous-tâches:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Clé</b><br/>
+                </td>
+                <td>
+                    <b>Résumé</b><br/>
+                </td>
+                <td>
+                    <b>Type</b><br/>
+                </td>
+                <td>
+                    <b>État</b><br/>
+                </td>
+                <td>
+                    <b>Personne assignée</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://madiha1622.atlassian.net/browse/GEN1423-33">GEN1423-33</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://madiha1622.atlassian.net/browse/GEN1423-33">Fiche complète du ticket Jira</a>
+                    </td>
+                    <td>
+                        Sous-tâche
+                    </td>
+                    <td>
+                        À faire
+                    </td>
+                    <td>
+                                                     Madiha Osman Ahmed, Madiha Osman Ahmed  &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Classement:</b></td>
+                <td id="customfield_10019-10043-value" class="value" bgcolor="#ffffff" width="80%">      0|i0009b:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10043-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Description détaillée </p>
+
+<p>la présentation orale est l’étape finale du projet. Elle permet de démontrer la maitrise de concept du génie logiciel et de présenter le travail réalisé par l'équipe. La présentation doit être structurée claire et convaincante, avec une démonstration en direct des livrables.</p>
+
+<p>Objectifs:</p>
+
+<ul>
+	<li>Présenter le projet Géotrack (Contexte, problématique, solution)</li>
+	<li>Démontrer la maitrise des concepts du génie logiciel</li>
+	<li>présenter l’architecture et les choix technologiques</li>
+	<li>Montrer les livrables</li>
+	<li>Répondre aux questions du professeur</li>
+</ul>
+
+
+<p>Structure de la présentation </p>
+
+<ol>
+	<li>Introduction et mise en situation</li>
+	<li>Problématique et defis</li>
+	<li>Architecture et choix technologique</li>
+	<li>dimensionnement et calculs</li>
+	<li>Qualité et validation</li>
+	<li>démonstration</li>
+	<li>Conclusion</li>
+</ol>
+
+
+<p>Contenu Attendu par Slide:</p>
+
+<p>Slide 1: Page de titre </p>
+
+<p>Titre : GeoTrack - Système de suivi de flotte de vehicules</p>
+
+<p>Equipe : Groupe 4 - sujet B</p>
+
+<p>Membres : 3</p>
+
+<p>Professeur : Abderrahmane Ben</p>
+
+<p>Slide 2 : Plan de la présentation</p>
+
+<ol>
+	<li>Introduction et mise en situation</li>
+	<li>Architecture et choix technologiques</li>
+	<li>Dimensionnement et stratégie de données</li>
+	<li>Qualité, sécurité et observabilité</li>
+	<li>démonstration</li>
+	<li>Conclusion et perpectives</li>
+	<li>Questions-reponses</li>
+</ol>
+
+
+<p>Slides 3: Mise en situation </p>
+
+<ul>
+	<li>Contexte : Entreprise canadienne de logistiques</li>
+	<li>Defis:2 000 msg/s, 69 GO/jour, 50 to sur 2 ans</li>
+	<li>Objectifs : Architecture scalable, prototype fonctionnel</li>
+</ul>
+
+
+<p>Slide 4 : Exigences clés</p>
+
+<p>Fonctionnelles:</p>
+
+<ul>
+	<li>Réception de données GPS en temps réel</li>
+	<li>Visualisation sur carte interactive</li>
+	<li>Historique des trajets</li>
+	<li>Alertes de vitesse et geofencing</li>
+	<li>Tableaux de bord analytiques</li>
+</ul>
+
+
+<p>Non fonctionnelles:</p>
+
+<ul>
+	<li>Disponibilité</li>
+	<li>Performance</li>
+	<li>scalabilité</li>
+	<li>stockage</li>
+</ul>
+
+
+<p>Slide 5: Architecture globale</p>
+
+<p>Style architectural : Microservices</p>
+
+<p>Composants principaux:</p>
+
+<ul>
+	<li>Client Layer : Véhicules + utilisateur</li>
+	<li>Edge Layer : Load Balancer, firewall, CDN</li>
+	<li>API Gateway:Kong</li>
+	<li>Microservices: Ingestion, Processing, alerts</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Commentaires</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10001"><td bgcolor="#f0f0f0">
+            Commentaire de  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:33e61ad0-26f8-42bc-8016-9867a494d577"
+                id="word_commented_712020:33e61ad0-26f8-42bc-8016-9867a494d577"
+                href="https://madiha1622.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A33e61ad0-26f8-42bc-8016-9867a494d577">
+                    Youssouf, Mahamat Issa
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">05/ao&ucirc;t/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10001"><td bgcolor="#ffffff">
+            <p>Définition de la structure et répartition des slides entre les membres.</p>
+        </td></tr>
+            </table>
+Généré à Wed Aug 12 13:52:57 UTC 2026 par Youssouf, Mahamat Issa avec JIRA 1001.0.0-SNAPSHOT#100293-rev:1b00c98b94d13fc15b6260abed141f800962a012.
+
+</body>
+</html>

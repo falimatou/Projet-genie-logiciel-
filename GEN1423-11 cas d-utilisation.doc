@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GEN1423-11] le cas d&#39;utilisation</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://madiha1622.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://madiha1622.atlassian.net/browse/GEN1423-3">Documentation</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://madiha1622.atlassian.net/browse/GEN1423-3">GEN1423-3</a>)</span>
+                <h3 class="formtitle"><img src="https://madiha1622.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [GEN1423-11]&nbsp;<a href="https://madiha1622.atlassian.net/browse/GEN1423-11">le cas d&#39;utilisation</a>
+            <span class="subText">
+               Création: 04/ao&ucirc;t/26                   &nbsp;Mise à jour: 12/ao&ucirc;t/26
+
+                                                    &nbsp;Résolu: 12/ao&ucirc;t/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>État:</b></td>
+        <td width="80%">Terminé</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projet:</b></td>
+        <td width="80%"><a href="https://madiha1622.atlassian.net/secure/BrowseProject.jspa?id=10002">GEN1423 – Projet de génie logiciel</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Composants:</b></td>
+            <td>
+                            Aucun(e)
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versions affectées:</b></td>
+            <td>
+                            Aucun(e)
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versions corrigées:</b></td>
+            <td>
+                            Aucun(e)
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://madiha1622.atlassian.net/browse/GEN1423-3">Documentation</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorité:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Rapporteur:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:71706fc6-46a1-4362-85c2-d5435db6fd01"
+                id="word_reporter_712020:71706fc6-46a1-4362-85c2-d5435db6fd01"
+                href="https://madiha1622.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A71706fc6-46a1-4362-85c2-d5435db6fd01">
+                    Madiha Osman Ahmed, Madiha Osman Ahmed
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Personne assignée:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:33e61ad0-26f8-42bc-8016-9867a494d577"
+                id="word_assignee_712020:33e61ad0-26f8-42bc-8016-9867a494d577"
+                href="https://madiha1622.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A33e61ad0-26f8-42bc-8016-9867a494d577">
+                    Youssouf, Mahamat Issa
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Résolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Terminé
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Étiquettes:</b>
+        </td>
+        <td id="labels-10042-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Aucun(e)
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimation restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Non spécifié
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Temps consacré:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Non spécifié
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimation originale:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Non spécifié
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Classement:</b></td>
+                <td id="customfield_10019-10042-value" class="value" bgcolor="#ffffff" width="80%">      0|i00093:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10042-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Introduction</li>
+</ol>
+
+
+<p>Ce document décrit en détail les cas d’utilisation du système GeoTrack, un système de suivi de flotte de véhicules en temps réel. Chaque cas est décrit avec ses acteurs, préconditions, postconditions et scénarios.</p>
+
+<p>2.Liste des Acteurs </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>#</b></th>
+<th class='confluenceTh'><b>Acteur</b></th>
+<th class='confluenceTh'><b>Description</b></th>
+<th class='confluenceTh'><b>Role</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>A1</td>
+<td class='confluenceTd'>Gestionnaire de flotte</td>
+<td class='confluenceTd'>Supervise la flotte</td>
+<td class='confluenceTd'>Surveiller, analyser, configurer</td>
+</tr>
+<tr>
+<td class='confluenceTd'>A2</td>
+<td class='confluenceTd'>Responsable Sécurité</td>
+<td class='confluenceTd'>Gère les alertes</td>
+<td class='confluenceTd'>surveiller, réagir , prévenir</td>
+</tr>
+<tr>
+<td class='confluenceTd'>A3</td>
+<td class='confluenceTd'>Analyse</td>
+<td class='confluenceTd'>Analyse les données</td>
+<td class='confluenceTd'>Générer , analyser, exporter</td>
+</tr>
+<tr>
+<td class='confluenceTd'>A4</td>
+<td class='confluenceTd'>Administrateur</td>
+<td class='confluenceTd'>Gère le système</td>
+<td class='confluenceTd'>configurer, administrer, maintenir</td>
+</tr>
+<tr>
+<td class='confluenceTd'>A5</td>
+<td class='confluenceTd'>Système véhicule</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>Transmettre, communiquer</td>
+</tr>
+<tr>
+<td class='confluenceTd'>A6</td>
+<td class='confluenceTd'>Gestionnaire Maintenance</td>
+<td class='confluenceTd'>planifie les interventions</td>
+<td class='confluenceTd'>Planifier, suivre, réparer</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<ol>
+	<li>Cas d’utilisation</li>
+</ol>
+
+
+<p>UC-01 : Visualiser la flotte en temps réel</p>
+
+<p>Acteur principal : ** Gestionnaire de flotte (A1)</p>
+
+<p>Déclencheur : ** L’utilisateur se connecte au Dashboard</p>
+
+<p>Précondition : ** L’utilisateur est authentifié</p>
+
+<p>Postcondition :** La carte affiche tous les véhicules actifs</p>
+
+<ul>
+	<li>
+	<ul>
+		<li>Scenario principale :**</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ol>
+	<li>L’utilisateur ouvre le dashboard</li>
+	<li>Le systeme recupere les positions depuis Redis</li>
+	<li>La carte s’affiche avec les véhicules</li>
+	<li>Les positions se mettent a jour toutes les 3 secondes</li>
+	<li>L’utilisateur peut zoomer et naviguer sur la carte</li>
+</ol>
+
+
+<ul>
+	<li>
+	<ul>
+		<li>Scénarios alternatifs : **</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ul>
+	<li>Aucun véhicule actif - Message “ Aucun vehicule en ligne”</li>
+	<li>Erreur Redis - Affichage des données en cache</li>
+</ul>
+
+
+<p>UC-02 : Consulter l’historique des trajets</p>
+
+<ul>
+	<li>
+	<ul>
+		<li>Acteur principal : ** Gestionnaire de flotte (A1)</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ul>
+	<li>
+	<ul>
+		<li>Déclencheur :** L’utilisateur sélectionne un véhicule et une période</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ul>
+	<li>
+	<ul>
+		<li>Préconditions : ** L’utilisateur est authentifié</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ul>
+	<li>
+	<ul>
+		<li>postcondition : ** La trajectoire est affiché sur la carte</li>
+	</ul>
+	</li>
+</ul>
+
+
+<p>**Scénario Principal </p>
+
+<ol>
+	<li>L’utilisateur sélectionne un véhicule</li>
+	<li>L’utilisateur choisit une période</li>
+	<li>le système interroge Cassandra</li>
+	<li>La trajectoire est tracée sur la carte</li>
+	<li>les statistiques sont affichées</li>
+</ol>
+
+
+<ul>
+	<li>
+	<ul>
+		<li>Scénarios alternatifs:**</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ul>
+	<li>Periode sans données- message “ Aucune donnée pour cette période”</li>
+	<li>Données trop volumineuse - Pagination automatique</li>
+</ul>
+
+
+<ul>
+	<li>
+	<ul>
+		<li>EXCEPTIONS</li>
+	</ul>
+	</li>
+</ul>
+
+
+<ul>
+	<li>Cassandra indisponible - message d’erreur + fallback vers cache</li>
+</ul>
+
+
+
+
+<p>UC-03 : Consulter le dashboard KPI</p>
+
+<p><b>Acteur principal :</b> Gestionnaire de flotte (A1)  <br/>
+<b>Déclencheur :</b> L'utilisateur ouvre le tableau de bord  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> Les indicateurs sont affichés  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>L'utilisateur ouvre le tableau de bord</li>
+	<li>Le système agrège les données</li>
+	<li>Les KPI sont affichés en temps réel</li>
+	<li>Les graphiques sont mis à jour automatiquement</li>
+</ol>
+
+
+<p><b>Indicateurs affichés :</b></p>
+
+<ul>
+	<li>Nombre de véhicules actifs</li>
+	<li>Distance totale parcourue</li>
+	<li>Alertes actives</li>
+	<li>Taux de disponibilité</li>
+</ul>
+
+
+<hr />
+
+<h3><a name="UC04%3AG%C3%A9rerlesalertes"></a>UC-04 : Gérer les alertes</h3>
+
+<p><b>Acteur principal :</b> Responsable Sécurité (A2)  <br/>
+<b>Déclencheur :</b> L'utilisateur ouvre la page des alertes  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> Les alertes sont traitées  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>L'utilisateur consulte la liste des alertes</li>
+	<li>L'utilisateur filtre par type/période</li>
+	<li>L'utilisateur confirme ou ignore une alerte</li>
+	<li>Le système met à jour le statut</li>
+</ol>
+
+
+<p><b>Scénarios alternatifs :</b></p>
+
+<ul>
+	<li>Aucune alerte → Message "Aucune alerte en cours"</li>
+	<li>Alerte critique → Notification supplémentaire</li>
+</ul>
+
+
+<hr />
+
+<h3><a name="UC05%3AExporterdesrapports"></a>UC-05 : Exporter des rapports</h3>
+
+<p><b>Acteur principal :</b> Analyste (A3)  <br/>
+<b>Déclencheur :</b> L'utilisateur demande un export  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> Le rapport est généré  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>L'utilisateur sélectionne la période</li>
+	<li>L'utilisateur choisit le format (PDF/CSV)</li>
+	<li>Le système génère le rapport</li>
+	<li>Le fichier est téléchargé</li>
+</ol>
+
+
+<hr />
+
+<h3><a name="UC06%3ARecevoirdesnotifications"></a>UC-06 : Recevoir des notifications</h3>
+
+<p><b>Acteur principal :</b> Gestionnaire de flotte (A1)  <br/>
+<b>Déclencheur :</b> Une alerte est déclenchée  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> La notification est envoyée  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>Le système détecte une alerte</li>
+	<li>Le système envoie un email</li>
+	<li>(Optionnel) Le système envoie un SMS</li>
+</ol>
+
+
+<p><b>Scénarios alternatifs :</b></p>
+
+<ul>
+	<li>Email échoué → Retry automatique (3 fois)</li>
+	<li>SMS échoué → Passage en fallback email</li>
+</ul>
+
+
+<p>UC-07 : Configurer les paramètres</p>
+
+<p><b>Acteur principal :</b> Administrateur (A4)  <br/>
+<b>Déclencheur :</b> L'utilisateur ouvre les paramètres  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> Les paramètres sont modifiés  </p>
+
+<p><b>Paramètres configurables :</b></p>
+
+<ul>
+	<li>Seuils de vitesse par zone</li>
+	<li>Fréquence de mise à jour</li>
+	<li>Listes des notifications</li>
+	<li>Utilisateurs et permissions</li>
+</ul>
+
+
+<hr />
+
+<h3><a name="UC08%3AD%C3%A9finirdeszonesg%C3%A9ographiques"></a>UC-08 : Définir des zones géographiques</h3>
+
+<p><b>Acteur principal :</b> Gestionnaire de flotte (A1)  <br/>
+<b>Déclencheur :</b> L'utilisateur crée une zone  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> La zone est créée  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>L'utilisateur ouvre l'outil de création</li>
+	<li>L'utilisateur dessine un polygone sur la carte</li>
+	<li>L'utilisateur définit les paramètres (nom, vitesse)</li>
+	<li>Le système enregistre la zone</li>
+</ol>
+
+
+<hr />
+
+<h3><a name="UC09%3AAjouterdesv%C3%A9hicules"></a>UC-09 : Ajouter des véhicules</h3>
+
+<p><b>Acteur principal :</b> Administrateur (A4)  <br/>
+<b>Déclencheur :</b> L'utilisateur ajoute un véhicule  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> Le véhicule est ajouté  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>L'utilisateur remplit le formulaire</li>
+	<li>L'utilisateur soumet les informations</li>
+	<li>Le système enregistre le véhicule</li>
+	<li>Le véhicule est activé</li>
+</ol>
+
+
+<hr />
+
+<h3><a name="UC10%3AEnvoyerdesdonn%C3%A9esGPS"></a>UC-10 : Envoyer des données GPS</h3>
+
+<p><b>Acteur principal :</b> Système Véhicule (A5)  <br/>
+<b>Déclencheur :</b> Le véhicule envoie des données  <br/>
+<b>Précondition :</b> Le véhicule est en ligne  <br/>
+<b>Postcondition :</b> Les données sont stockées  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>Le véhicule envoie sa position</li>
+	<li>Le système valide le message</li>
+	<li>Le système publie dans Kafka</li>
+	<li>Le système stocke dans Cassandra et Redis</li>
+</ol>
+
+
+<p><b>Scénarios alternatifs :</b></p>
+
+<ul>
+	<li>Message invalide → Rejet + log d'erreur</li>
+	<li>Kafka indisponible → File d'attente locale</li>
+</ul>
+
+
+<hr />
+
+<h3><a name="UC11%3AG%C3%A9rerlamaintenance"></a>UC-11 : Gérer la maintenance</h3>
+
+<p><b>Acteur principal :</b> Gestionnaire Maintenance (A6)  <br/>
+<b>Déclencheur :</b> L'utilisateur planifie une maintenance  <br/>
+<b>Précondition :</b> L'utilisateur est authentifié  <br/>
+<b>Postcondition :</b> La maintenance est programmée  </p>
+
+<p><b>Scénario principal :</b></p>
+
+<ol>
+	<li>L'utilisateur sélectionne un véhicule</li>
+	<li>L'utilisateur choisit le type de maintenance</li>
+	<li>L'utilisateur définit la date</li>
+	<li>Le système enregistre la maintenance</li>
+</ol>
+
+
+<p>4.Relations</p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Cas principal</b></th>
+<th class='confluenceTh'><b>Cas inclus</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-01</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-02</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-03</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-04</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-05</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-06</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-07</td>
+<td class='confluenceTd'>authentifiaction</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-08</td>
+<td class='confluenceTd'>authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-09</td>
+<td class='confluenceTd'>Authentification</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-11</td>
+<td class='confluenceTd'>authentifications</td>
+</tr>
+<tr>
+<td class='confluenceTd'>uc-10</td>
+<td class='confluenceTd'>valider données</td>
+</tr>
+<tr>
+<td class='confluenceTd'>UC-10</td>
+<td class='confluenceTd'>Stocker données</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<ol>
+	<li>Conclusion</li>
+</ol>
+
+
+<p>Ce document présente l’ensemble des cas d’utilisation du système GeoTrack.</p>
+
+<p>Il sert de base pour la conception détaillée et le développement.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Généré à Wed Aug 12 13:50:01 UTC 2026 par Youssouf, Mahamat Issa avec JIRA 1001.0.0-SNAPSHOT#100293-rev:1b00c98b94d13fc15b6260abed141f800962a012.
+
+</body>
+</html>
